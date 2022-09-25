@@ -1,2 +1,2 @@
 # Normaldistribution
-Octave Normal Distribution Plotting script
+Matlab Normal Distribution Plotting script
